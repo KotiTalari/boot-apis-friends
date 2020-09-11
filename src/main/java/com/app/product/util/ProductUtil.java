@@ -5,4 +5,5 @@ public class ProductUtil {
 	
 	private Long id;
 	private String name;
+	private int age;
 }
